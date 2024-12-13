@@ -13,9 +13,9 @@ This project processes and analyzes drug review data to classify reviews as "Use
 - **Validation Set**: 20% of the dataset is used for holdout validation.
 
 #### Output Files
- "/content/DrugData/drugsCom_train.csv"
- "/content/DrugData/drugsCom_test.csv"
- "/content/DrugData/drugsCom_validation.csv"
+-  "/content/DrugData/drugsCom_train.csv"
+-  "/content/DrugData/drugsCom_test.csv"
+-  "/content/DrugData/drugsCom_validation.csv"
 
 
 #### Creating a Binary Target Column
