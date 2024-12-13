@@ -85,7 +85,8 @@ This project processes and analyzes drug review data to classify reviews as "Use
    - Perform cross-validation for robustness.
 
 #### Result 
- ![image](https://github.com/user-attachments/assets/06d43564-0545-4bb7-abb0-000a662ecd59)
+![image](https://github.com/user-attachments/assets/0b9565f2-a310-4ac1-a1ff-f9d05a359638)
+
 
 
 
