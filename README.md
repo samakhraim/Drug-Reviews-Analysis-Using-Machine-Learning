@@ -1,5 +1,32 @@
 ## Drug Reviews Analysis Using Machine Learning
-
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNxIEhd93X2fcANbhgKfxo4",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/samakhraim/Drug-Reviews-Analysis-Using-Machine-Learning/blob/main/DrugsReview.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
 ### Overview
 This project processes and analyzes drug review data to classify reviews as "Useful" or "Not Useful" using machine learning models. It utilizes a dataset divided into training, testing, and validation sets and applies two machine learning models, K-Nearest Neighbors (KNN) and Linear Regression, to evaluate their performance through various metrics and visualizations.
 
